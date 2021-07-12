@@ -1,0 +1,14 @@
+content:
+- Reading data with a readLine
+- List
+- Functional decomposition
+- Inheritance
+- Errors in programs
+- Taming exceptions
+- The try-catch statement
+- The try-catch-finally statement
+- Nullable and non-nullable types
+- Null safety
+- Type system
+- toString()
+- Data class

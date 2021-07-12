@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Parking Lot/task/build/
+/Parking Lot/task/out/
+/Parking Lot/task/out/production/classes/
+/Topics/Data class/copy() usage/out/
+/Topics/Data class/copy() usage/out/production/classes/
+/Topics/Data class/equals() check/out/
+/Topics/Data class/equals() check/out/production/classes/
+/Topics/Errors in programs/Fix compile-time errors/out/
+/Topics/Errors in programs/Fix compile-time errors/out/production/classes/
+/Topics/Functional decomposition/Calculator with four functions/out/
+/Topics/Functional decomposition/Calculator with four functions/out/production/classes/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Decompose a math function/out/production/classes/
+/Topics/Inheritance/Cart/out/
+/Topics/Inheritance/Cart/out/production/classes/
+/Topics/Inheritance/House inheritance/out/
+/Topics/Inheritance/House inheritance/out/production/classes/
+/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readLine/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Taming exceptions/Handle arithmetic exception/out/
+/Topics/Taming exceptions/Handle arithmetic exception/out/production/classes/
+/Topics/Taming exceptions/Handle number format exception/out/
+/Topics/Taming exceptions/Handle number format exception/out/production/classes/
+/Topics/The try-catch statement/Integer division/out/
+/Topics/The try-catch statement/Integer division/out/production/classes/
+/Topics/The try-catch-finally statement/Parting words/out/
+/Topics/The try-catch-finally statement/Parting words/out/production/classes/
